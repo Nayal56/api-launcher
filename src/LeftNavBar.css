@@ -1,0 +1,39 @@
+.left-nav-bar {
+  background-color: #f4f4f4;
+  width: 200px;
+  padding: 10px;
+}
+
+.code-box {
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
+
+.code-box div {
+  margin-bottom: 8px;
+}
+
+.dropdown {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 8px;
+}
+
+.option-box {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.option-name {
+  font-weight: bold;
+}
+
+.option-code {
+  font-family: monospace;
+}
+
